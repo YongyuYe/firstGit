@@ -15,3 +15,4 @@ const changeToFunkyColor = (domElement) => {
 }
 
 export { toggleHiddenElement, changeToFunkyColor };
+// just fot testing\
